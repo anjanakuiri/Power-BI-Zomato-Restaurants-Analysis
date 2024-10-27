@@ -78,8 +78,3 @@ These slicers enable users to customize their view and focus on specific data se
 - **Geographic Relevance**: Some insights may be region-specific.
 - **Temporal Data Coverage**: Trends may vary based on the time period of data included in the report.
 
-### Additional Information
-
-- **Data Refresh**: For live data, ensure the report is refreshed regularly to maintain accuracy.
-- **Feedback**: For any suggestions or feedback on improving this report, please contact the report author.
-
